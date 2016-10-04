@@ -27,10 +27,6 @@ This project was generated with the [Angular Full-Stack Generator](https://githu
 ## Build & development
 
 Run `grunt build` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `npm test` will run the unit tests with karma.
 =======
 # signup
 >>>>>>> 771283659129119c722c10cfefddbab452ec3280
